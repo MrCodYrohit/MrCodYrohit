@@ -1,104 +1,24 @@
-# Rohit Raj
+<h1 align="center">Hi 👋, I'm Rohit Raj</h1>
+<h3 align="center">A passionate developer and tech enthusiast.</h3>
 
-**B.Tech in Computer Science and Applied Mathematics**  
-Indraprastha Institute of Information Technology Delhi (IIIT Delhi)  
-Email: [rohit21279@iiitd.ac.in](mailto:rohit21279@iiitd.ac.in)  
-DOB: May 15, 2003
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcodyrohit&label=Profile%20views&color=0e75b6&style=flat" alt="mrcodyrohit" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcodyrohit" alt="mrcodyrohit" /></a> </p>
 
-## Education
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- **B.Tech in Computer Science and Applied Mathematics**  
-  Indraprastha Institute of Information Technology Delhi (IIIT Delhi)  
-  CGPA: 7.59 (till 6th Semester)
-  
-- **CBSE, Kendriya Vidyalaya No. 1, Delhi Cantt-10, New Delhi**  
-  Percentage: 94 (2020-2021)
-  
-- **CBSE, Kendriya Vidyalaya No. 1, Delhi Cantt-10, New Delhi**  
-  Percentage: 91 (2018-2019)
+- ⚡ Fun fact **I watched India vs South Africa final 7 times! Thala for a reason!!!**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rohit raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit raj" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rohit21279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohit21279" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohitrraj015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrraj015" height="30" width="40" /></a>
+</p>
 
-## Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- **Expertise Areas:**  
-  Object-oriented Programming, Data Structures and Algorithms, Problem Solving, DBMS, Machine Learning, Software Development, Web Development, UI/UX
-  
-- **Programming Languages:**  
-  Python, Java, C, C++, JavaScript, Assembly
-  
-- **Tools and Technologies:**  
-  React.js, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Bootstrap, HTML, CSS, WordPress, Jupyter, TensorFlow, Git/GitHub, MS Excel, LibGDX, Processing, Linux, Canva, Figma, SAP, Miro, WSL
-  
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcodyrohit&show_icons=true&locale=en&layout=compact" alt="mrcodyrohit" /></p>
 
-## Technical Electives
-
-- Data Structures and Algorithms
-- Algorithm Design and Analysis
-- Database Management Systems
-- Operating Systems
-- Advanced Programming
-- Human-Computer Interaction
-- Interactive Systems
-- Computer Organisation
-- Computer Networks
-- Real Analysis
-- Discrete Mathematics
-- Theory of Computation
-- Scientific Computing
-- Optimization
-
----
-
-## Internships
-
-- **Assocom Foods Pvt Ltd, SDE Intern**  
-  Guide: Mr. Shorya Kapoor  
-  Apr 2024 – June 2024  
-  Team Size: 4
-  - Developed a fully functional e-commerce website for their in-house brand "The Cyprus," optimizing site performance by 75% using JavaScript, CSS, and WordPress.
-  - Created the main website [AssocomFoods.com](https://AssocomFoods.com) to showcase company activities, products, and clients.
-
-- **CSE Department, IIIT-Delhi, SDE Intern**  
-  Guide: Dr. Sumit J Darak  
-  Aug 2023 – Dec 2023  
-  Team Size: 2
-  - Automated the system to generate Google Calendar invitations for all professors and students based on lecture timings/slots using Python and Google Calendar API, serving over 5000 users per semester.
-
-- **Undergrad Researcher, IIIT-Delhi, Research Analyst**  
-  Guide: Dr. Soibum Haripriya  
-  Jan 2024 – Apr 2024  
-  Team Size: 3
-  - Conducted comprehensive data collection and employed statistical analysis tools to identify key parameters influencing fashion trends.
-
----
-
-## Projects
-
-- **[Wheels Way: A Web Platform](https://github.com/your-github/wheels-way)**  
-  React, Node, MongoDB, Express, Tailwind CSS, Redux  
-  May 2024 - June 2024  
-  - Enables users to list their cars for sale or rent, log in, update profiles, create/edit car listings with images and information, and contact owners of listed cars via Gmail.
-  - Implemented advanced search functionality with title-based search, option filters, and price sorting.
-
-- **[Speech Verification: Machine Learning Project](https://github.com/your-github/speech-verification)**  
-  Python, Machine Learning, SkLearn  
-  Sep 2023 – Dec 2023  
-  Team Size: 4
-  - Built a machine learning pipeline including exploratory data analysis (EDA) on audio data, data preprocessing, feature extraction, and employing Gaussian Mixture Models (GMMs) for Speaker Verification.
-  - Evaluated system effectiveness using the Equal Error Rate (EER).
-
-- **[CareerSync: A Web Platform](https://github.com/your-github/careersync)**  
-  React, Node, MongoDB, Express, CSS  
-  Sep 2023 – Dec 2023  
-  Team Size: 4
-  - A companion platform to LinkedIn allowing users to log in, update profiles, and connect using desired search filters.
-
-- **[Tank Stars: Java Game](https://github.com/your-github/tank-stars)**  
-  Java, LibGDX  
-  Nov 2022 - Dec 2022  
-  Team Size: 2
-  -  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrcodyrohit&show_icons=true&locale=en" alt="mrcodyrohit" /></p>
