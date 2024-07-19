@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcodyrohit&label=Profile%20views&color=0e75b6&style=flat" alt="mrcodyrohit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcodyrohit" alt="mrcodyrohit" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning Algorithms**
+
+- 💬 Ask me about **react, node, mongoDB, C++**
+
+- 📫 How to reach me **rohit21279@iiitd.ac.in**
 
 - ⚡ Fun fact **I watched India vs South Africa final 7 times! Thala for a reason!!!**
 
