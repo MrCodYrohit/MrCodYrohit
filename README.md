@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 💬 Ask me about **react, node, mongoDB, C++**
+- 💬 Ask me about **Data structures and algorithms, react, node, mongoDB, C++**
 
 - 📫 How to reach me **rohit21279@iiitd.ac.in**
 
